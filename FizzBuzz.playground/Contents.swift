@@ -65,3 +65,4 @@ Master file changes.
 New line changes to the master file.
 
 Another new line changes to master
+New line changes in master
