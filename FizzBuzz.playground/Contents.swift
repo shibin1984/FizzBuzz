@@ -62,3 +62,4 @@ for i in 1...100 {
 }
 
 Master file changes.
+New line changes to the master file.
